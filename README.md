@@ -1,2 +1,2 @@
 # FinanceML
-financial market analysis with machine learning
+financial markets analysis with machine learning
