@@ -1,0 +1,1151 @@
+{
+    "data_source": "reuters",
+    "dataset_type": "Intraday aggregated stock stats",
+    "dataset_id": "http://bucket-name.s3-website-Region.amazonaws.com",
+    "time_object": {
+        "timestamp": "2023-06-03 17:41:20.102114",
+        "timezone": "UTC+10"
+    },
+    "events": [
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:00:00",
+                "VWAP": 41.1153534987,
+                "AReturn-VWAP": "Not Applicable",
+                "LReturn-VWAP": "Not Applicable"
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:05:00",
+                "VWAP": 41.2253440962,
+                "AReturn-VWAP": 0.0026751709,
+                "LReturn-VWAP": 0.002671599
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:10:00",
+                "VWAP": 41.2565779039,
+                "AReturn-VWAP": 0.0007576361,
+                "LReturn-VWAP": 0.0007573492
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:15:00",
+                "VWAP": 41.3558096868,
+                "AReturn-VWAP": 0.0024052354,
+                "LReturn-VWAP": 0.0024023475
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:20:00",
+                "VWAP": 41.5043763633,
+                "AReturn-VWAP": 0.0035924016,
+                "LReturn-VWAP": 0.0035859643
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:25:00",
+                "VWAP": 41.598553622,
+                "AReturn-VWAP": 0.0022690922,
+                "LReturn-VWAP": 0.0022665217
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:30:00",
+                "VWAP": 41.5940076596,
+                "AReturn-VWAP": -0.0001092817,
+                "LReturn-VWAP": -0.0001092877
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:35:00",
+                "VWAP": 41.5608869868,
+                "AReturn-VWAP": -0.0007962847,
+                "LReturn-VWAP": -0.0007966019
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:40:00",
+                "VWAP": 41.5558645504,
+                "AReturn-VWAP": -0.0001208453,
+                "LReturn-VWAP": -0.0001208526
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:45:00",
+                "VWAP": 41.5706002339,
+                "AReturn-VWAP": 0.0003545994,
+                "LReturn-VWAP": 0.0003545365
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:50:00",
+                "VWAP": 41.6148604974,
+                "AReturn-VWAP": 0.0010647011,
+                "LReturn-VWAP": 0.0010641347
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:55:00",
+                "VWAP": 41.6416687222,
+                "AReturn-VWAP": 0.0006441984,
+                "LReturn-VWAP": 0.000643991
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:00:00",
+                "VWAP": 41.6125459049,
+                "AReturn-VWAP": -0.0006993672,
+                "LReturn-VWAP": -0.0006996119
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:05:00",
+                "VWAP": 41.6069935714,
+                "AReturn-VWAP": -0.0001334293,
+                "LReturn-VWAP": -0.0001334382
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:10:00",
+                "VWAP": 41.6069002588,
+                "AReturn-VWAP": -2.2427e-06,
+                "LReturn-VWAP": -2.2427e-06
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:15:00",
+                "VWAP": 41.6129433826,
+                "AReturn-VWAP": 0.0001452433,
+                "LReturn-VWAP": 0.0001452328
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:20:00",
+                "VWAP": 41.6185966541,
+                "AReturn-VWAP": 0.0001358537,
+                "LReturn-VWAP": 0.0001358445
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:25:00",
+                "VWAP": 41.6161391574,
+                "AReturn-VWAP": -5.9048e-05,
+                "LReturn-VWAP": -5.90498e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:30:00",
+                "VWAP": 41.6171335151,
+                "AReturn-VWAP": 2.38936e-05,
+                "LReturn-VWAP": 2.38933e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:35:00",
+                "VWAP": 41.69983884,
+                "AReturn-VWAP": 0.0019872903,
+                "LReturn-VWAP": 0.0019853182
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:40:00",
+                "VWAP": 41.7456905961,
+                "AReturn-VWAP": 0.0010995667,
+                "LReturn-VWAP": 0.0010989627
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:45:00",
+                "VWAP": 41.7525733345,
+                "AReturn-VWAP": 0.000164873,
+                "LReturn-VWAP": 0.0001648594
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:50:00",
+                "VWAP": 41.7535219003,
+                "AReturn-VWAP": 2.27187e-05,
+                "LReturn-VWAP": 2.27185e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:55:00",
+                "VWAP": 41.780491964,
+                "AReturn-VWAP": 0.0006459351,
+                "LReturn-VWAP": 0.0006457265
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:00:00",
+                "VWAP": 41.7642394817,
+                "AReturn-VWAP": -0.0003889969,
+                "LReturn-VWAP": -0.0003890726
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:05:00",
+                "VWAP": 41.6679563275,
+                "AReturn-VWAP": -0.002305397,
+                "LReturn-VWAP": -0.0023080586
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:10:00",
+                "VWAP": 41.6353084863,
+                "AReturn-VWAP": -0.0007835239,
+                "LReturn-VWAP": -0.0007838311
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:15:00",
+                "VWAP": 41.6737302472,
+                "AReturn-VWAP": 0.0009228168,
+                "LReturn-VWAP": 0.0009223912
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:20:00",
+                "VWAP": 41.6758018844,
+                "AReturn-VWAP": 4.97109e-05,
+                "LReturn-VWAP": 4.97096e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:25:00",
+                "VWAP": 41.6541487787,
+                "AReturn-VWAP": -0.0005195606,
+                "LReturn-VWAP": -0.0005196956
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:30:00",
+                "VWAP": 41.6484428273,
+                "AReturn-VWAP": -0.000136984,
+                "LReturn-VWAP": -0.0001369934
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:35:00",
+                "VWAP": 41.7076442908,
+                "AReturn-VWAP": 0.0014214568,
+                "LReturn-VWAP": 0.0014204475
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:40:00",
+                "VWAP": 41.69904251,
+                "AReturn-VWAP": -0.0002062399,
+                "LReturn-VWAP": -0.0002062612
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:45:00",
+                "VWAP": 41.6729113078,
+                "AReturn-VWAP": -0.0006266619,
+                "LReturn-VWAP": -0.0006268584
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:50:00",
+                "VWAP": 41.6717202146,
+                "AReturn-VWAP": -2.8582e-05,
+                "LReturn-VWAP": -2.85824e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:55:00",
+                "VWAP": 41.7024901885,
+                "AReturn-VWAP": 0.0007383898,
+                "LReturn-VWAP": 0.0007381173
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:00:00",
+                "VWAP": 41.7324850909,
+                "AReturn-VWAP": 0.0007192593,
+                "LReturn-VWAP": 0.0007190007
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:05:00",
+                "VWAP": 41.7162098205,
+                "AReturn-VWAP": -0.0003899904,
+                "LReturn-VWAP": -0.0003900665
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:10:00",
+                "VWAP": 41.7000801231,
+                "AReturn-VWAP": -0.000386653,
+                "LReturn-VWAP": -0.0003867278
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:15:00",
+                "VWAP": 41.7092469509,
+                "AReturn-VWAP": 0.0002198276,
+                "LReturn-VWAP": 0.0002198034
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:20:00",
+                "VWAP": 41.6978225058,
+                "AReturn-VWAP": -0.0002739068,
+                "LReturn-VWAP": -0.0002739443
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:25:00",
+                "VWAP": 41.7147328239,
+                "AReturn-VWAP": 0.0004055444,
+                "LReturn-VWAP": 0.0004054622
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:30:00",
+                "VWAP": 41.702215428,
+                "AReturn-VWAP": -0.0003000713,
+                "LReturn-VWAP": -0.0003001164
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:35:00",
+                "VWAP": 41.706935412,
+                "AReturn-VWAP": 0.000113183,
+                "LReturn-VWAP": 0.0001131766
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:40:00",
+                "VWAP": 41.6947454552,
+                "AReturn-VWAP": -0.0002922765,
+                "LReturn-VWAP": -0.0002923192
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:45:00",
+                "VWAP": 41.6992051151,
+                "AReturn-VWAP": 0.0001069598,
+                "LReturn-VWAP": 0.000106954
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:50:00",
+                "VWAP": 41.6816478573,
+                "AReturn-VWAP": -0.0004210454,
+                "LReturn-VWAP": -0.000421134
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:55:00",
+                "VWAP": 41.6617206406,
+                "AReturn-VWAP": -0.0004780813,
+                "LReturn-VWAP": -0.0004781956
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:00:00",
+                "VWAP": 41.6698496417,
+                "AReturn-VWAP": 0.0001951192,
+                "LReturn-VWAP": 0.0001951002
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:05:00",
+                "VWAP": 41.6400073083,
+                "AReturn-VWAP": -0.0007161613,
+                "LReturn-VWAP": -0.0007164179
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:10:00",
+                "VWAP": 41.6379179719,
+                "AReturn-VWAP": -5.01762e-05,
+                "LReturn-VWAP": -5.01774e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:15:00",
+                "VWAP": 41.6200310906,
+                "AReturn-VWAP": -0.0004295815,
+                "LReturn-VWAP": -0.0004296738
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:20:00",
+                "VWAP": 41.6260963766,
+                "AReturn-VWAP": 0.00014573,
+                "LReturn-VWAP": 0.0001457194
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:25:00",
+                "VWAP": 41.6245495495,
+                "AReturn-VWAP": -3.716e-05,
+                "LReturn-VWAP": -3.71607e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:30:00",
+                "VWAP": 41.6256101477,
+                "AReturn-VWAP": 2.54801e-05,
+                "LReturn-VWAP": 2.54798e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:35:00",
+                "VWAP": 41.6353387812,
+                "AReturn-VWAP": 0.0002337175,
+                "LReturn-VWAP": 0.0002336902
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:40:00",
+                "VWAP": 41.6437624738,
+                "AReturn-VWAP": 0.0002023207,
+                "LReturn-VWAP": 0.0002023003
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:45:00",
+                "VWAP": 41.6537241176,
+                "AReturn-VWAP": 0.0002392109,
+                "LReturn-VWAP": 0.0002391823
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:50:00",
+                "VWAP": 41.6594906166,
+                "AReturn-VWAP": 0.000138439,
+                "LReturn-VWAP": 0.0001384294
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:55:00",
+                "VWAP": 41.6365170015,
+                "AReturn-VWAP": -0.0005514617,
+                "LReturn-VWAP": -0.0005516139
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:00:00",
+                "VWAP": 41.627043934,
+                "AReturn-VWAP": -0.0002275182,
+                "LReturn-VWAP": -0.0002275441
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:05:00",
+                "VWAP": 41.634781225,
+                "AReturn-VWAP": 0.0001858717,
+                "LReturn-VWAP": 0.0001858545
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:10:00",
+                "VWAP": 41.6314533075,
+                "AReturn-VWAP": -7.99312e-05,
+                "LReturn-VWAP": -7.99344e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:15:00",
+                "VWAP": 41.6326889247,
+                "AReturn-VWAP": 2.96799e-05,
+                "LReturn-VWAP": 2.96795e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:20:00",
+                "VWAP": 41.6655982822,
+                "AReturn-VWAP": 0.0007904692,
+                "LReturn-VWAP": 0.0007901569
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:25:00",
+                "VWAP": 41.687822391,
+                "AReturn-VWAP": 0.0005333923,
+                "LReturn-VWAP": 0.0005332501
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:30:00",
+                "VWAP": 41.7161673622,
+                "AReturn-VWAP": 0.0006799341,
+                "LReturn-VWAP": 0.000679703
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:35:00",
+                "VWAP": 41.7157295876,
+                "AReturn-VWAP": -1.04941e-05,
+                "LReturn-VWAP": -1.04942e-05
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:40:00",
+                "VWAP": 41.7100707992,
+                "AReturn-VWAP": -0.0001356512,
+                "LReturn-VWAP": -0.0001356604
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:45:00",
+                "VWAP": 41.7270467169,
+                "AReturn-VWAP": 0.0004069981,
+                "LReturn-VWAP": 0.0004069153
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:50:00",
+                "VWAP": 41.7428541286,
+                "AReturn-VWAP": 0.0003788289,
+                "LReturn-VWAP": 0.0003787572
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:55:00",
+                "VWAP": 41.7492850207,
+                "AReturn-VWAP": 0.0001540597,
+                "LReturn-VWAP": 0.0001540478
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:10:00",
+                "VWAP": 41.74,
+                "AReturn-VWAP": -0.0002223995,
+                "LReturn-VWAP": -0.0002224242
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:20:00",
+                "VWAP": 41.6129,
+                "AReturn-VWAP": -0.0030450407,
+                "LReturn-VWAP": -0.0030496863
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:35:00",
+                "VWAP": 41.16,
+                "AReturn-VWAP": -0.0108836443,
+                "LReturn-VWAP": -0.0109433044
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:55:00",
+                "VWAP": 41.75,
+                "AReturn-VWAP": 0.0143343052,
+                "LReturn-VWAP": 0.0142325403
+            }
+        }
+    ]
+}

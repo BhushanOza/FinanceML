@@ -1,0 +1,1227 @@
+{
+    "data_source": "reuters",
+    "dataset_type": "Intraday aggregated stock stats",
+    "dataset_id": "http://bucket-name.s3-website-Region.amazonaws.com",
+    "time_object": {
+        "timestamp": "2023-06-03 17:41:01.400055",
+        "timezone": "UTC+10"
+    },
+    "events": [
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:00:00",
+                "DollarVolumeTraded": 2772243.825,
+                "ShareVolumeTraded": 67426.0,
+                "TradeCount": 573,
+                "AveragePrice": 41.11995637
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:05:00",
+                "DollarVolumeTraded": 8172677.115,
+                "ShareVolumeTraded": 198244.0,
+                "TradeCount": 730,
+                "AveragePrice": 41.2081575342
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:10:00",
+                "DollarVolumeTraded": 2195386.28,
+                "ShareVolumeTraded": 53213.0,
+                "TradeCount": 693,
+                "AveragePrice": 41.2523232323
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:15:00",
+                "DollarVolumeTraded": 3480339.52,
+                "ShareVolumeTraded": 84156.0,
+                "TradeCount": 854,
+                "AveragePrice": 41.3602400468
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:20:00",
+                "DollarVolumeTraded": 8067786.695,
+                "ShareVolumeTraded": 194384.0,
+                "TradeCount": 1009,
+                "AveragePrice": 41.5147274529
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:25:00",
+                "DollarVolumeTraded": 2321116.095,
+                "ShareVolumeTraded": 55798.0,
+                "TradeCount": 643,
+                "AveragePrice": 41.5955987558
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:30:00",
+                "DollarVolumeTraded": 2807470.735,
+                "ShareVolumeTraded": 67497.0,
+                "TradeCount": 623,
+                "AveragePrice": 41.5951605136
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:35:00",
+                "DollarVolumeTraded": 883709.14,
+                "ShareVolumeTraded": 21263.0,
+                "TradeCount": 377,
+                "AveragePrice": 41.5617771883
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:40:00",
+                "DollarVolumeTraded": 1010597.07,
+                "ShareVolumeTraded": 24319.0,
+                "TradeCount": 419,
+                "AveragePrice": 41.5555966587
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:45:00",
+                "DollarVolumeTraded": 1528509.4,
+                "ShareVolumeTraded": 36769.0,
+                "TradeCount": 585,
+                "AveragePrice": 41.5709401709
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:50:00",
+                "DollarVolumeTraded": 1167879.445,
+                "ShareVolumeTraded": 28064.0,
+                "TradeCount": 471,
+                "AveragePrice": 41.6150636943
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 00:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 00:55:00",
+                "DollarVolumeTraded": 1012891.9500000001,
+                "ShareVolumeTraded": 24324.0,
+                "TradeCount": 426,
+                "AveragePrice": 41.6407394366
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:00:00",
+                "DollarVolumeTraded": 1461723.9,
+                "ShareVolumeTraded": 35127.0,
+                "TradeCount": 584,
+                "AveragePrice": 41.6093664384
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:05:00",
+                "DollarVolumeTraded": 1190875.3699999999,
+                "ShareVolumeTraded": 28622.0,
+                "TradeCount": 483,
+                "AveragePrice": 41.6088405797
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:10:00",
+                "DollarVolumeTraded": 884354.665,
+                "ShareVolumeTraded": 21255.0,
+                "TradeCount": 305,
+                "AveragePrice": 41.6081803279
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:15:00",
+                "DollarVolumeTraded": 1497899.51,
+                "ShareVolumeTraded": 35996.0,
+                "TradeCount": 401,
+                "AveragePrice": 41.6122942643
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:20:00",
+                "DollarVolumeTraded": 1748855.05,
+                "ShareVolumeTraded": 42021.0,
+                "TradeCount": 511,
+                "AveragePrice": 41.6193933464
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:25:00",
+                "DollarVolumeTraded": 887006.39,
+                "ShareVolumeTraded": 21314.0,
+                "TradeCount": 371,
+                "AveragePrice": 41.6151078167
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:30:00",
+                "DollarVolumeTraded": 1205981.295,
+                "ShareVolumeTraded": 28978.0,
+                "TradeCount": 452,
+                "AveragePrice": 41.617300885
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:35:00",
+                "DollarVolumeTraded": 2992422.135,
+                "ShareVolumeTraded": 71761.0,
+                "TradeCount": 599,
+                "AveragePrice": 41.6902086811
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:40:00",
+                "DollarVolumeTraded": 894944.115,
+                "ShareVolumeTraded": 21438.0,
+                "TradeCount": 428,
+                "AveragePrice": 41.7439602804
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:45:00",
+                "DollarVolumeTraded": 3245260.515,
+                "ShareVolumeTraded": 77726.0,
+                "TradeCount": 671,
+                "AveragePrice": 41.75585693
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:50:00",
+                "DollarVolumeTraded": 1227804.065,
+                "ShareVolumeTraded": 29406.0,
+                "TradeCount": 338,
+                "AveragePrice": 41.7542011834
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 01:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 01:55:00",
+                "DollarVolumeTraded": 1299791.105,
+                "ShareVolumeTraded": 31110.0,
+                "TradeCount": 426,
+                "AveragePrice": 41.7795657277
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:00:00",
+                "DollarVolumeTraded": 1318246.455,
+                "ShareVolumeTraded": 31564.0,
+                "TradeCount": 347,
+                "AveragePrice": 41.7695389049
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:05:00",
+                "DollarVolumeTraded": 3199099.015,
+                "ShareVolumeTraded": 76776.0,
+                "TradeCount": 516,
+                "AveragePrice": 41.6648352713
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:10:00",
+                "DollarVolumeTraded": 1254513.48,
+                "ShareVolumeTraded": 30131.0,
+                "TradeCount": 498,
+                "AveragePrice": 41.6350401606
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:15:00",
+                "DollarVolumeTraded": 1234209.195,
+                "ShareVolumeTraded": 29616.0,
+                "TradeCount": 462,
+                "AveragePrice": 41.6720887446
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:20:00",
+                "DollarVolumeTraded": 831557.275,
+                "ShareVolumeTraded": 19953.0,
+                "TradeCount": 346,
+                "AveragePrice": 41.6757080925
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:25:00",
+                "DollarVolumeTraded": 1181769.855,
+                "ShareVolumeTraded": 28371.0,
+                "TradeCount": 545,
+                "AveragePrice": 41.6542110092
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:30:00",
+                "DollarVolumeTraded": 1653984.6099999999,
+                "ShareVolumeTraded": 39713.0,
+                "TradeCount": 611,
+                "AveragePrice": 41.6482733224
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:35:00",
+                "DollarVolumeTraded": 1169941.13,
+                "ShareVolumeTraded": 28051.0,
+                "TradeCount": 421,
+                "AveragePrice": 41.7079334917
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:40:00",
+                "DollarVolumeTraded": 1131003.1300000001,
+                "ShareVolumeTraded": 27123.0,
+                "TradeCount": 581,
+                "AveragePrice": 41.70232358
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:45:00",
+                "DollarVolumeTraded": 1059533.77,
+                "ShareVolumeTraded": 25425.0,
+                "TradeCount": 539,
+                "AveragePrice": 41.6762152134
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:50:00",
+                "DollarVolumeTraded": 706877.39,
+                "ShareVolumeTraded": 16963.0,
+                "TradeCount": 290,
+                "AveragePrice": 41.6725172414
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 02:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 02:55:00",
+                "DollarVolumeTraded": 648181.805,
+                "ShareVolumeTraded": 15543.0,
+                "TradeCount": 374,
+                "AveragePrice": 41.6986764706
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:00:00",
+                "DollarVolumeTraded": 860732.505,
+                "ShareVolumeTraded": 20625.0,
+                "TradeCount": 408,
+                "AveragePrice": 41.7327573529
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:05:00",
+                "DollarVolumeTraded": 846171.6,
+                "ShareVolumeTraded": 20284.0,
+                "TradeCount": 316,
+                "AveragePrice": 41.7213765823
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:10:00",
+                "DollarVolumeTraded": 1964699.275,
+                "ShareVolumeTraded": 47115.0,
+                "TradeCount": 535,
+                "AveragePrice": 41.698682243
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:15:00",
+                "DollarVolumeTraded": 1422618.995,
+                "ShareVolumeTraded": 34108.0,
+                "TradeCount": 510,
+                "AveragePrice": 41.7143137255
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:20:00",
+                "DollarVolumeTraded": 718870.46,
+                "ShareVolumeTraded": 17240.0,
+                "TradeCount": 286,
+                "AveragePrice": 41.7004195804
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:25:00",
+                "DollarVolumeTraded": 42913655.95999999,
+                "ShareVolumeTraded": 1028741.0,
+                "TradeCount": 437,
+                "AveragePrice": 41.703604119
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:30:00",
+                "DollarVolumeTraded": 1374213.105,
+                "ShareVolumeTraded": 32953.0,
+                "TradeCount": 514,
+                "AveragePrice": 41.7012743191
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:35:00",
+                "DollarVolumeTraded": 2431847.99,
+                "ShareVolumeTraded": 58308.0,
+                "TradeCount": 498,
+                "AveragePrice": 41.7060040161
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:40:00",
+                "DollarVolumeTraded": 1183463.655,
+                "ShareVolumeTraded": 28384.0,
+                "TradeCount": 387,
+                "AveragePrice": 41.6953875969
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:45:00",
+                "DollarVolumeTraded": 732071.245,
+                "ShareVolumeTraded": 17556.0,
+                "TradeCount": 410,
+                "AveragePrice": 41.7021829268
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:50:00",
+                "DollarVolumeTraded": 528148.16,
+                "ShareVolumeTraded": 12671.0,
+                "TradeCount": 244,
+                "AveragePrice": 41.6823360656
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 03:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 03:55:00",
+                "DollarVolumeTraded": 468277.74,
+                "ShareVolumeTraded": 11240.0,
+                "TradeCount": 264,
+                "AveragePrice": 41.6603219697
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:00:00",
+                "DollarVolumeTraded": 709470.86,
+                "ShareVolumeTraded": 17026.0,
+                "TradeCount": 285,
+                "AveragePrice": 41.6685087719
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:05:00",
+                "DollarVolumeTraded": 1139520.44,
+                "ShareVolumeTraded": 27366.0,
+                "TradeCount": 461,
+                "AveragePrice": 41.6415726681
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:10:00",
+                "DollarVolumeTraded": 571563.7,
+                "ShareVolumeTraded": 13727.0,
+                "TradeCount": 396,
+                "AveragePrice": 41.6384848485
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:15:00",
+                "DollarVolumeTraded": 1566245.01,
+                "ShareVolumeTraded": 37632.0,
+                "TradeCount": 378,
+                "AveragePrice": 41.6206613757
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:20:00",
+                "DollarVolumeTraded": 1290117.605,
+                "ShareVolumeTraded": 30993.0,
+                "TradeCount": 380,
+                "AveragePrice": 41.6259605263
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:25:00",
+                "DollarVolumeTraded": 771594.275,
+                "ShareVolumeTraded": 18537.0,
+                "TradeCount": 340,
+                "AveragePrice": 41.6239558824
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:30:00",
+                "DollarVolumeTraded": 712921.8250000001,
+                "ShareVolumeTraded": 17127.0,
+                "TradeCount": 385,
+                "AveragePrice": 41.6268181818
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:35:00",
+                "DollarVolumeTraded": 1660958.57,
+                "ShareVolumeTraded": 39893.0,
+                "TradeCount": 413,
+                "AveragePrice": 41.6353874092
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:40:00",
+                "DollarVolumeTraded": 676044.84,
+                "ShareVolumeTraded": 16234.0,
+                "TradeCount": 294,
+                "AveragePrice": 41.6422619048
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:45:00",
+                "DollarVolumeTraded": 1410186.8299999998,
+                "ShareVolumeTraded": 33855.0,
+                "TradeCount": 461,
+                "AveragePrice": 41.6531670282
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:50:00",
+                "DollarVolumeTraded": 1227580.21,
+                "ShareVolumeTraded": 29467.0,
+                "TradeCount": 491,
+                "AveragePrice": 41.6616191446
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 04:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 04:55:00",
+                "DollarVolumeTraded": 903678.965,
+                "ShareVolumeTraded": 21704.0,
+                "TradeCount": 405,
+                "AveragePrice": 41.6370987654
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:00:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:00:00",
+                "DollarVolumeTraded": 1163517.5050000001,
+                "ShareVolumeTraded": 27951.0,
+                "TradeCount": 566,
+                "AveragePrice": 41.6267932862
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:05:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:05:00",
+                "DollarVolumeTraded": 1040036.8350000001,
+                "ShareVolumeTraded": 24980.0,
+                "TradeCount": 550,
+                "AveragePrice": 41.6346363636
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:10:00",
+                "DollarVolumeTraded": 1418550.1400000001,
+                "ShareVolumeTraded": 34074.0,
+                "TradeCount": 534,
+                "AveragePrice": 41.6314700375
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:15:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:15:00",
+                "DollarVolumeTraded": 1344236.26,
+                "ShareVolumeTraded": 32288.0,
+                "TradeCount": 524,
+                "AveragePrice": 41.6320515267
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:20:00",
+                "DollarVolumeTraded": 1702748.0050000001,
+                "ShareVolumeTraded": 40867.0,
+                "TradeCount": 430,
+                "AveragePrice": 41.6610930233
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:25:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:25:00",
+                "DollarVolumeTraded": 1701696.9100000001,
+                "ShareVolumeTraded": 40820.0,
+                "TradeCount": 509,
+                "AveragePrice": 41.6873280943
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:30:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:30:00",
+                "DollarVolumeTraded": 2329055.34,
+                "ShareVolumeTraded": 55831.0,
+                "TradeCount": 820,
+                "AveragePrice": 41.7157256098
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:35:00",
+                "DollarVolumeTraded": 960004.085,
+                "ShareVolumeTraded": 23013.0,
+                "TradeCount": 489,
+                "AveragePrice": 41.7156134969
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:40:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:40:00",
+                "DollarVolumeTraded": 1325546.05,
+                "ShareVolumeTraded": 31780.0,
+                "TradeCount": 538,
+                "AveragePrice": 41.7112546468
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:45:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:45:00",
+                "DollarVolumeTraded": 1772982.2149999999,
+                "ShareVolumeTraded": 42490.0,
+                "TradeCount": 644,
+                "AveragePrice": 41.7261723602
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:50:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:50:00",
+                "DollarVolumeTraded": 3976507.77,
+                "ShareVolumeTraded": 95262.0,
+                "TradeCount": 983,
+                "AveragePrice": 41.7447202442
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 05:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 05:55:00",
+                "DollarVolumeTraded": 2923702.43,
+                "ShareVolumeTraded": 70030.0,
+                "TradeCount": 1050,
+                "AveragePrice": 41.7462285714
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:10:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:10:00",
+                "DollarVolumeTraded": 46979872.64,
+                "ShareVolumeTraded": 1125536.0,
+                "TradeCount": 267,
+                "AveragePrice": 41.74
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:20:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:20:00",
+                "DollarVolumeTraded": 1087927.6576,
+                "ShareVolumeTraded": 26144.0,
+                "TradeCount": 1,
+                "AveragePrice": 41.6129
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:35:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:35:00",
+                "DollarVolumeTraded": 5697943.4399999995,
+                "ShareVolumeTraded": 138434.0,
+                "TradeCount": 1,
+                "AveragePrice": 41.16
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2019-07-17 06:55:00.000000",
+                "duration": 5,
+                "duration_unit": "minutes",
+                "timezone": "UTC+10"
+            },
+            "event_type": "intraday aggregated stats",
+            "attribute": {
+                "Date-Time": "2019-07-17 06:55:00",
+                "DollarVolumeTraded": 2965210.25,
+                "ShareVolumeTraded": 71023.0,
+                "TradeCount": 1,
+                "AveragePrice": 41.75
+            }
+        }
+    ]
+}
